@@ -8,6 +8,9 @@ import matplotlib.pyplot as plt
 
 header("9 casos de negocio con Streamlit")
 st.subheader("7. Análisis de sentimiento de tweets sobre aerolíneas estadounidenses")
+"""
+Fuente: *https://github.com/singhishita/Interactive-Dashboards-With-Streamlit*
+"""
 st.sidebar.title("Análisis de sentimiento de tweets sobre aerolíneas estadounidenses")
 
 st.markdown("Esta aplicación es una aplicación de Streamlit utilizada para analizar el sentimiento de los tweets 🐦 sobre aerolíneas estadounidenses ✈️")
